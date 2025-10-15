@@ -1,0 +1,78 @@
+body {
+  background: linear-gradient(rgba(183, 137, 137, 0.5), rgba(150, 117, 117, 0.5)), url('/image/img0.jpg');
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.img1 {
+  height: 300px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.img2 {
+  display: block;
+  margin: auto;
+}
+
+.img3 {
+  height: 200px;
+  width: 400px;
+  display: block;
+}
+
+.contents {
+  width: 200px;
+  height: 300px;
+  float: right;
+  font-family: URW Chancery L, cursive;
+  font-size: 14px;
+}
+
+.stisky {
+  position: sticky;
+  top: 0px;
+  height: 200px;
+}
+
+.text1 {
+  margin-right: 220px; 
+  font-weight: 800; 
+}
+
+h1 {
+  text-align: center;
+  color: rgb(95, 64, 14);
+  font-family: Bradley Hand, cursive;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  color: saddlebrown;
+  font-family: Bradley Hand, cursive
+}
+
+h3 {
+  text-align: center;
+  color: rgb(85, 44, 14);
+  font-family: Bradley Hand, cursive
+}
+
+.box-1 {
+  font-style: italic;
+  font-weight: 900; 
+  text-align: center;
+  }
+  
+
+span {
+  color: crimson;
+} 
+
+.chapter {
+  margin-left: 30px;
+}
